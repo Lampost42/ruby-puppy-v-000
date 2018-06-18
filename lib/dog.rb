@@ -9,3 +9,5 @@ class Dog
   
   def self.all
     @@all.each{|dog| puts dog}
+  end
+end
